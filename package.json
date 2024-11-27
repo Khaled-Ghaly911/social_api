@@ -1,0 +1,22 @@
+{
+  "name": "social_api",
+  "version": "1.0.0",
+  "description": "Social api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "social_api"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Khaled Ghaly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
